@@ -1,5 +1,5 @@
-# 👋 Hi, I’m [Arahmad]
-# 💫 About Me:
+# 👋 Hi, I’m Ahmad
+
 🚀 Full-Stack Developer | Mobile & Web Expert<br><br>I’m a passionate full-stack developer specializing in React.js, Next.js, React Native, Node.js, 
 
 
@@ -12,9 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=arahmaddeveloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=arahmaddeveloper&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arahmaddeveloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arahmaddeveloper&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
