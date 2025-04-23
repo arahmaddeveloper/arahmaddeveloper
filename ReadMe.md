@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arahmaddeveloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 # GitHub Streak
-(https://streak-stats.demolab.com?user=arahmaddeveloper&theme=dark&hide_border=false)(https://github.com/arahmaddeveloper)<br/>
+![](https://streak-stats.demolab.com?user=arahmaddeveloper&theme=dark&hide_border=false)(https://github.com/arahmaddeveloper)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arahmaddeveloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
